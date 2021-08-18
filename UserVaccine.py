@@ -8,7 +8,7 @@ province = input("Province : ")
 
 
 
-if(Age < 25 ):
+if(int(Age) < 25 ):
     print("You are not applicable for the Covid 19 vaccine")
    
 
