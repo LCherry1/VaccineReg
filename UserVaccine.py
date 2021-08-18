@@ -14,7 +14,9 @@ if(int(Age) < 25 ):
 
 else:
     print("You quailify for the vaccine")
-    #Test to see if changes are mad
+
+
+#clean code
 
     
 
